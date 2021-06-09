@@ -1,5 +1,8 @@
 ### Hi there 👋
-#### Welcome to my GitHub profile
+
+- 🔭 I’m currently working at Nayan Technology, as a Software Engineer, Backend
+- 📫 How to reach me: Drop me a mail at sanchit.samuel@live.com
+- :computer: Technologies I work with: ROR, Linux, Postgres, etc.
 
 <!--
 **sanchitsamuel/sanchitsamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
