@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Senior Software Engineer, Backend
+- 🔭 I’m currently working as a Software Development Engineer III @ GoCardless
 - 📫 How to reach me: Drop me a mail at sanchit.samuel@live.com
 - :computer: Technologies I work with: ROR, Linux, Postgres, Kafka etc.
 
